@@ -7,4 +7,4 @@ Kween is a very fast discord bot which can destroy a server completely under 2 m
 This was done under 2 minutes
 
 # Requirements
-- ![Node.js v16](https://nodejs.org)
+- [Node.js v16](https://nodejs.org)
