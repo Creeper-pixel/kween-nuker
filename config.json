@@ -1,6 +1,6 @@
 {
-	"token": "ODc4OTU5MzY4NzkwNDg3MDQx.YSIwsw.byT8Hi8eFo0etE9ZE4Jyg-mvdbY", // bot token
-	"OwnerID": "790469060009263126", // your user id
+	"token": "", // bot token
+	"OwnerID": "", // your user id
 	"prefix": ">", // nuke bot prefix
 	"fakeprefix": "?", // fake bot prefix
 	"mongouri": "mongodb url", // fake bot won't work if you don't provide one https://mongodb.com to get a url
