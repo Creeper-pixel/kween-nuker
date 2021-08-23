@@ -26,6 +26,11 @@ This was done under 2 minutes
 
 Support: !Kweeper#8053 OR https://discord.gg/aAWygcRd
 
+# Seting up
+Go to [Discord developer portal](https://discord.dev) and get yourself a bot token
+go into config.json and edit the lines
+Add your mongourl if you don't add one fakebot won't work [Mongodb](https://cloud.mongodb.com)
+
 # Note from the dev
 
 I do not encourge nuking servers and stuff this is for educational purposes only and i am not responsible for any of your actions
