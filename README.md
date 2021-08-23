@@ -22,7 +22,7 @@ This was done under 2 minutes
 - `delro` deletes all roles
 - `mchsend` mass channels and send the given message with @everyone
 - `destroy` Get rid of the server
-- `fakeit` deploys the fake bot (a leveling bot to prevant thoe bot from being sus)
+- `fakeit` deploys the fake bot (a leveling bot to prevant the bot from being sus)
 
 Support: !Kweeper#8053 OR https://discord.gg/aAWygcRd
 
