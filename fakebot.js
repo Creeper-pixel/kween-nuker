@@ -10,7 +10,7 @@ const config = require("./config.json")
 const token = config.token
 const db = config.mongouri
 const prefix = config.fakeprefix
-function startbot() {
+function startbot() { // you can start editing from here
     levels.setURL(db)
     client.once("ready", () => {
         client.user.setPresence({
