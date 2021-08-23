@@ -8,3 +8,8 @@ This was done under 2 minutes
 
 # Requirements
 - [Node.js v16](https://nodejs.org)
+- [Discord.js v13](https://discord.js.org)
+
+# Commands & features
+
+``
